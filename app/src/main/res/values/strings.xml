@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wk02Hw01_section01_solo</string>
+    <string name="loginText">Login</string>
+    <string name="passwordLabel">Password</string>
+    <string name="usernameLabel">Username</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+
+    <string name="welcomeText">Welcome!</string>
+</resources>
